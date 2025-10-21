@@ -1,4 +1,4 @@
-watchdogs
+watchdog
 rich
 win10toast
 keyboard
