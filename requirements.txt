@@ -1,0 +1,5 @@
+watchdogs
+rich
+win10toast
+keyboard
+pyperclip

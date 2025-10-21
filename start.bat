@@ -1,6 +1,7 @@
 @echo off
 
 cls
-cd C:\Users\MT\Projects\page_pfp\
+python -m pip install -U -q pip
+pip install -q -r requirements.txt
 python page_pfp.py
 pause
