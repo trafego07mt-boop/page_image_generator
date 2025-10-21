@@ -34,6 +34,8 @@ DEFAULT_DOWNLOADS: Final[Path] = Path.home() / "Downloads"
 console: Console = Console()
 print = console.print
 
+console.clear()
+
 
 @dataclass(frozen=True)
 class DownloadEvent:
